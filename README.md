@@ -189,4 +189,5 @@
 * [SmallDev.tools](https://smalldev.tools/)
 * [Hreflang checker](https://localizely.com/hreflang-checker/)
 * [giga.tools](https://giga.tools/)
+* [BeginThings](https://beginthings.com/) - 96+ free browser-based tools for developers & freelancers
 
